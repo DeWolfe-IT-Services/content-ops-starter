@@ -44,6 +44,7 @@ sections:
             - pl-0
             - pr-0
           borderColor: border-dark
+          borderStyle: double
     badge:
       label: This is a badge
       color: text-primary
