@@ -5,10 +5,10 @@
         "styles": {
             "self": {
                 "margin": [
-                    "mr-0",
-                    "mt-0",
-                    "ml-0",
-                    "mb-0"
+                    "mr-6",
+                    "mt-6",
+                    "ml-6",
+                    "mb-6"
                 ],
                 "padding": [
                     "pr-0",
