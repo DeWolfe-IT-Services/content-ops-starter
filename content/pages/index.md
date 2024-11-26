@@ -48,10 +48,10 @@ sections:
           borderWidth: 0
           borderRadius: none
           margin:
-            - mt-8
-            - ml-14
-            - mb-20
-            - mr-14
+            - mt-36
+            - ml-36
+            - mb-36
+            - mr-36
     badge:
       label: This is a badge
       color: text-primary
