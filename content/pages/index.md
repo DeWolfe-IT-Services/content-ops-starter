@@ -42,6 +42,7 @@ sections:
             - pt-10
             - pb-10
             - pl-10
+            - pr-10
     badge:
       label: This is a badge
       color: text-primary
