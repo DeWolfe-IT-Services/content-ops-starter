@@ -50,7 +50,7 @@ sections:
           margin:
             - mt-14
             - ml-14
-            - mb-14
+            - mb-20
             - mr-14
     badge:
       label: This is a badge
