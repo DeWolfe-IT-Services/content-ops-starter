@@ -48,7 +48,7 @@ sections:
           borderWidth: 0
           borderRadius: none
           margin:
-            - mt-14
+            - mt-8
             - ml-14
             - mb-20
             - mr-14
