@@ -44,7 +44,7 @@ sections:
             - pl-0
             - pr-0
           borderColor: border-dark
-          borderStyle: double
+          borderStyle: solid
           borderWidth: 0
           borderRadius: large
           margin:
