@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Dabbing Bussinessman 1 mod1.5.png
+      url: /images/LOGO Abreviited 2.2.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
