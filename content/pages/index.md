@@ -39,10 +39,10 @@ sections:
       styles:
         self:
           padding:
-            - pt-14
-            - pb-14
-            - pl-14
-            - pr-14
+            - pt-0
+            - pb-0
+            - pl-0
+            - pr-0
           borderColor: border-dark
           borderStyle: double
           borderWidth: 4
