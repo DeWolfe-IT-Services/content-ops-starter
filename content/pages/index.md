@@ -46,7 +46,7 @@ sections:
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 0
-          borderRadius: large
+          borderRadius: none
           margin:
             - mt-14
             - ml-14
