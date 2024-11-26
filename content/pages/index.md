@@ -46,6 +46,7 @@ sections:
           borderColor: border-dark
           borderStyle: double
           borderWidth: 4
+          borderRadius: large
     badge:
       label: This is a badge
       color: text-primary
