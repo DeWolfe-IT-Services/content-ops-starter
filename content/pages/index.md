@@ -47,6 +47,11 @@ sections:
           borderStyle: double
           borderWidth: 4
           borderRadius: large
+          margin:
+            - mt-10
+            - ml-10
+            - mb-10
+            - mr-10
     badge:
       label: This is a badge
       color: text-primary
