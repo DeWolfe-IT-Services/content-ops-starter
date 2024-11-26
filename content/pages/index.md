@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/LOGO Abreviited 2.2.png
+      url: /images/DeWolfeITServicesLogoWhiteBG2.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
