@@ -20,7 +20,7 @@
             "padding": [
                 "pt-6",
                 "pb-6",
-                "pl-6",
+                "pl-14",
                 "pr-14"
             ],
             "textAlign": "center",
